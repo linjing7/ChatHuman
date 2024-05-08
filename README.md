@@ -27,7 +27,7 @@ This repository contains the implementation of the following paper:
 > 
 > [Jing Lin](https://jinglin7.github.io/)<sup>3,4,\*</sup>, [Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en)<sup>1,2,3,\*</sup>, [Weiyang Liu](https://wyliu.com/)<sup>1,5</sup>,[Michael J. Black](https://ps.is.mpg.de/person/black)<sup>3</sup>
 >
-> <sup>1</sup>Max Planck Institute for Intelligent Systems, <sup>2</sup>ETH Zürich, <sup>3</sup>Meshcapade, <sup>4</sup>Tsinghua University, <sup>5</sup>University of Cambridge
+> <sup>1</sup>Max Planck Institute for Intelligent Systems, <sup>2</sup>ETH Zürich, <sup>3</sup>Meshcapade, <sup>4</sup>Tsinghua University, <sup>5</sup>University of Cambridge, <sup>*</sup>Equal Contribution
 
 ![teaser](images/teaser.jpeg)
 
