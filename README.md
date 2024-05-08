@@ -36,9 +36,12 @@ This repository contains the implementation of the following paper:
 If you find this repository useful for your work, please consider citing it as follows:
 
 ```  
-@inproceedings{jing2024chathuman,
-    author={Lin, Jing and Feng, Yao and Liu, Weiyang and  Black, Michael J}
-    title={{ChatHuman}: Language-driven {3D} Human Understanding with Retrieval-Augmented Tool Reasoning},
- journal={arXiv preprint arXiv:2405.04533},
- year = {2024}}
+@misc{lin2024chathuman,
+      title={{ChatHuman}: Language-driven {3D} Human Understanding with Retrieval-Augmented Tool Reasoning},
+      author={Jing Lin and Yao Feng and Weiyang Liu and Michael J. Black},
+      year={2024},
+      eprint={2405.04533},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
