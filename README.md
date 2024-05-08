@@ -24,9 +24,10 @@
 This repository contains the implementation of the following paper:
 
 > ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning
-> [Jing Lin](https://jinglin7.github.io/)^3,4,*^, [Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en)^1,2,3,*^,[Weiyang Liu](https://wyliu.com/)^1,2,3^,[Michael J. Black](https://ps.is.mpg.de/person/black)^3^
+> 
+> [Jing Lin](https://jinglin7.github.io/)<sup>3,4,\*</sup>, [Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en)<sup>1,2,3,\*</sup>, [Weiyang Liu](https://wyliu.com/)<sup>1,5</sup>,[Michael J. Black](https://ps.is.mpg.de/person/black)<sup>3</sup>
 >
-> ^1^Max Planck Institute for Intelligent Systems, ^2^ETH Zürich, ^3^Meshcapade, ^4^Tsinghua University, ^5^University of Cambridge
+> <sup>1</sup>Max Planck Institute for Intelligent Systems, <sup>2</sup>ETH Zürich, <sup>3</sup>Meshcapade, <sup>4</sup>Tsinghua University, <sup>5</sup>University of Cambridge
 
 ![teaser](images/teaser.jpeg)
 
