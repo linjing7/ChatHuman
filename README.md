@@ -4,7 +4,7 @@
   <a href='https://arxiv.org/abs/2405.04533'>
     <img src='https://img.shields.io/badge/Arxiv-2405.04533-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
   </a>
-  <a href='https://arxiv.org/abs/2405.04533pdf'>
+  <a href='https://arxiv.org/pdf/2405.04533'>
     <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
   </a>
   <a href='https://chathuman.github.io'>
