@@ -1,4 +1,4 @@
-# **ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**
+# **ChatHuman: Chatting about 3D Humans with Tools**
 
 <p align="center">
   <a href='https://arxiv.org/abs/2405.04533'>
@@ -25,9 +25,9 @@ This repository contains the implementation of the following paper:
 
 > ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning
 > 
-> [Jing Lin](https://jinglin7.github.io/)<sup>3,4,\*</sup>, [Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en)<sup>1,2,3,\*</sup>, [Weiyang Liu](https://wyliu.com/)<sup>1,5</sup>,[Michael J. Black](https://ps.is.mpg.de/person/black)<sup>1</sup>
+> [Jing Lin](https://jinglin7.github.io/)<sup>3,4,\*</sup>, [Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en)<sup>2,3,\*</sup>, [Weiyang Liu](https://wyliu.com/)<sup>1,5</sup>,[Michael J. Black](https://ps.is.mpg.de/person/black)<sup>1</sup>
 >
-> <sup>1</sup>Max Planck Institute for Intelligent Systems, <sup>2</sup>ETH Zürich, <sup>3</sup>Meshcapade, <sup>4</sup>Tsinghua University, <sup>5</sup>University of Cambridge, <sup>*</sup>Equal Contribution
+> <sup>1</sup>Max Planck Institute for Intelligent Systems, <sup>2</sup>Standford University, <sup>3</sup>Meshcapade, <sup>4</sup>Tsinghua University, <sup>5</sup>University of Cambridge, <sup>*</sup>Equal Contribution
 
 ![teaser](images/teaser.jpeg)
 
@@ -36,12 +36,10 @@ This repository contains the implementation of the following paper:
 If you find this repository useful for your work, please consider citing it as follows:
 
 ```  
-@misc{lin2024chathuman,
-      title={{ChatHuman}: Language-driven {3D} Human Understanding with Retrieval-Augmented Tool Reasoning},
-      author={Jing Lin and Yao Feng and Weiyang Liu and Michael J. Black},
-      year={2024},
-      eprint={2405.04533},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@InProceedings{lin2025chathuman,
+        title={{ChatHuman}: Chatting about 3D Humans with Tools},
+        author={Lin, Jing and Feng, Yao and Liu, Weiyang and Black, Michael J.},
+        year={2025},
+        booktitle = {CVPR},
+  }
 ```
